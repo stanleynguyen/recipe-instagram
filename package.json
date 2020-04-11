@@ -1,0 +1,13 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "version": "1.00",
+  "description": "Instagram",
+  "main": "index.js",
+  "author": "Stanley Nguyen <hung.ngn.the@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.instagram.com/direct/inbox/",
+    "hasNotificationSound": true
+  }
+}
